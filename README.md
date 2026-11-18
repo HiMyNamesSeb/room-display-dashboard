@@ -14,23 +14,23 @@ I want one place in my room where I can glance at my day without picking up my p
 
 Anything used only for testing or setup is listed in that phase's folder, not here. Prices are rough estimates from planning (November 2026) and may be out of date.
 
-Status key: `(already have in kit)` · `(salvaged)` · `(bought)` · `(not bought yet)`
+Status key: `(already have)` · `(already have in kit)` · `(salvaged)` · `(bought)` · `(not bought yet)`
 
 **Screen**
-- [ ] 15.6" 1080p portable USB-C monitor, thin, matte if possible, with HDMI or mini-HDMI input (used preferred) `(not bought yet)`
+- [ ] WGK 15.6" 1080p portable monitor (W156F1), matte, mini HDMI + 2x USB-C, ~$44.99 Amazon `(not bought yet)`
 
 **Computer**
-- [ ] Raspberry Pi Zero 2 W (local seller, ~$16) `(not bought yet)`
-- [ ] 32GB microSD card `(not bought yet)`
+- [ ] Raspberry Pi Zero 2 W (local seller, hoping for ~$16) `(not bought yet)`
+- [ ] SanDisk Ultra 32GB microSD, ~$8-10 Walmart `(not bought yet)`
 
 **Cables and power**
-- [ ] Mini HDMI to HDMI cable (or mini HDMI to mini HDMI, depending on the monitor's input) `(not bought yet)`
-- [ ] 2-port wall charger, 30W+ USB-C plus USB-A `(not bought yet)`
-- [ ] Short USB-C cable (charger to monitor) `(not bought yet)`
-- [ ] Short micro-USB cable (charger to Pi) `(not bought yet)`
+- [ ] Mini HDMI to mini HDMI cable, ~3 ft, ~$6-10 `(not bought yet)`
+- [ ] Anker 33W 2-port wall charger (USB-C + USB-A), ~$25 Walmart `(not bought yet)`
+- [ ] USB-C cable, charger to monitor (comes with the monitor and the charger) `(not bought yet)`
+- [ ] Micro-USB cable, ~1 ft, charger to Pi, ~$3-6 `(not bought yet)`
 
 **Mounting**
-- [ ] Heavy-duty Velcro or adhesive mounting strips `(not bought yet)`
+- [x] Heavy-duty Velcro, rated 5 lb or more (monitor is 2.7 lb) `(already have)`
 
 ## Phases
 
@@ -44,5 +44,7 @@ I don't plan phases ahead. Each one gets added here when I actually start it, na
 - **What:** Deciding the design, researching fair prices and buying the parts.
 - **Why:** The budget is tight and the Pi Zero 2 W only has 512MB of RAM, so I need to choose parts that work together before I spend anything.
 - **Goal:** Have every part on the checklist in hand for under $100 if possible, and no more than about $130.
+
+**Estimated total: ~$103-112 before NC tax** (Day 1). Only the monitor and Pi prices are confirmed.
 
 _The next phase gets added when it starts._
